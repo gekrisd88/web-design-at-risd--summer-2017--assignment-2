@@ -1,0 +1,67 @@
+
+
+body {
+	background-color: #BFE9F2;
+	color: #322F53;
+	margin:50px;
+	width: 50%
+	font-size: 5em;
+	line-height: 1.2;
+	font-style: normal;
+	padding: 20px
+	font-family: "Century Gothic"
+}
+
+h1 {
+	font: 40px 
+	font-weight: 700;
+	margin: 20px;
+	text-align: center;
+	font-size: 70px;
+	color: white;
+	font-family:  "Letter Gothic std"
+}
+
+h2 {
+	text-align: center;
+	size: 36px
+	font-family: "Letter Gothic std"
+	color: gray;
+}
+
+h3 {
+	font-style: italic;
+	color: black;
+	padding: 15px;
+	text-align: center;
+	margin:50px;
+	color: #322F53;
+	font-family: "Andale Mono"
+
+}
+
+h4 {
+	margin: 60px;
+	font-size: 3em
+	font-style: bold
+	color: #322F53;
+	font-style: normal;
+
+}
+h4 {
+	text-align: center;
+}
+
+h5 {
+	font-size: 80px
+	letter-spacing: -80px
+	margin: 20px;
+	line-height: 90%
+	color: #322F53;
+	text-align: center;
+	font-style: normal;
+}
+
+h6 {
+	text-align: center;
+}
